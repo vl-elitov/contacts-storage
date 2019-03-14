@@ -2,4 +2,4 @@
 
 The small app for storage of contacts.
 
-Here were used to vue.js and axious module.
+The app were used to vue.js and axious module.
